@@ -1,0 +1,13 @@
+.LIST{
+    font-size: 75px;
+    margin-right: 10px;
+    padding: 8px;
+    border-radius: 11px;
+    cursor: pointer;
+    
+
+    &.active{
+        background-color:rgb(214, 94, 94);
+        color: rgba(0, 0, 0, 0.637);
+    }
+}
